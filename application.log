@@ -1,0 +1,12 @@
+2020-04-05 12:54:52,968  INFO [main] BaseClass:34 - **********browser opened**********
+2020-04-05 12:54:57,789  INFO [main] BaseClass:38 - **********window maximized**********
+2020-04-05 12:54:58,289  INFO [main] BaseClass:52 - *************actitime login successfulll*******
+2020-04-05 12:55:00,315  INFO [main] BaseClass:24 - **********clicked projects and customers links**********
+2020-04-05 12:55:00,821  INFO [main] BaseClass:27 - **********add new project button clicked**********
+2020-04-05 12:55:00,987  INFO [main] BaseClass:30 - **********customer name clicked from dropdown**********
+2020-04-05 12:55:01,168  INFO [main] BaseClass:32 - **********project name entered**********
+2020-04-05 12:55:01,316  INFO [main] BaseClass:34 - **********project description entered**********
+2020-04-05 12:55:01,908  INFO [main] BaseClass:36 - **********created project button clicked**********
+2020-04-05 12:55:01,959  INFO [main] BaseClass:39 - **********success message retrived**********
+2020-04-05 12:55:02,164  INFO [main] BaseClass:58 - **********actitime logout sucessfulll***********
+2020-04-05 12:55:02,295  INFO [main] BaseClass:44 - **********browser closed**********
